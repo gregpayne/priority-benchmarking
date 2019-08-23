@@ -1,0 +1,3 @@
+[submodule "application-priority"]
+	path = application-priority
+	url = git@bitbucket.org:Labvolution/application-priority.git
