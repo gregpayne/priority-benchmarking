@@ -29,6 +29,7 @@
 			<Item Name="Run exe with set priority.vi" Type="VI" URL="../application-priority/Run exe with set priority.vi"/>
 		</Item>
 		<Item Name="Capture timing.vi" Type="VI" URL="../Capture timing.vi"/>
+		<Item Name="Viewer.vi" Type="VI" URL="../Viewer.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
