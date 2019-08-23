@@ -1,0 +1,7 @@
+*.lvlps
+*.aliases
+builds
+installer
+__pycache__
+ignore
+
